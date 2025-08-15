@@ -33,10 +33,9 @@ The similarity.pkl file is excluded from the repo due to size. Generate it using
 
 Ensure you have a valid TMDB API key in app.py.
 
-Screenshot
+## Screenshot
 <img width="1002" height="681" alt="image" src="https://github.com/user-attachments/assets/d0d5c810-ee19-4f1a-ba1a-e10ad4229dbb" />
 
 
-Author
-Praveena Pantham
+# Author Praveena Pantham
 
